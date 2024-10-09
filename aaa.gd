@@ -27,11 +27,8 @@ func _init() -> void:
 
 func _ready() -> void:
 	print("aaa")
-<<<<<<< HEAD
 	print("ccc")
-=======
 	print("bbb")
->>>>>>> 3b399f5b09d88c98feee3632967b69b1519e52c7
 
 func _process(delta: float) -> void:
 	pass
