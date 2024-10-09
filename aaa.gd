@@ -50,7 +50,3 @@ func _unhandled_input(event: InputEvent) -> void:
 #region 工具方法
 
 #endregion
-<<<<<<< HEAD
-=======
-
->>>>>>> deer
