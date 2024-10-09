@@ -27,6 +27,7 @@ func _init() -> void:
 
 func _ready() -> void:
 	print("aaa")
+	print("bbb")
 
 func _process(delta: float) -> void:
 	pass
